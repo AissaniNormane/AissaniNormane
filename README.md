@@ -1,16 +1,16 @@
 # Hello there 👋
 
-![Futuristic Laboratory](file:///C:/Users/MAISON/Desktop/%D8%B5%D9%8A%D8%AF%D9%84%D8%A9.webp)
+![Futuristic Laboratory](https://github.com/user-attachments/assets/101ef79b-6c2d-4840-91d8-4ef5f7586ee6)
 
 I am **Aissani Normane**, a student at Batna 2 University in Algeria, currently pursuing a Master's degree in **Pharmacotoxicology**. My studies focus on the effects of drugs—both beneficial and harmful—along with the impact of toxins on humans and the environment.
 
-## 💼Academic Qualifications
+## 💼 Academic Qualifications
 - **Bachelor's Degree in Toxicology**  
   Graduated: 2024/2025
 - **Currently studying:**  
   First year of Master's in Pharmacotoxicology
 
-## ✍🏻 Skills
+## ✍🏻 Academic skills 
 - Proficient in using software and applications that provide data for scientific research related to:
   - Types and effects of toxins
   - Drug composition and effects
@@ -31,9 +31,6 @@ I am **Aissani Normane**, a student at Batna 2 University in Algeria, currently 
 
 <p align="center">
   <a href="https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png" /></a>
-  <a href="https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png" /></a>
-  <a href="https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png" /></a>
-  <a href="https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png" /></a>
 </p>
 
 <p align="center">
